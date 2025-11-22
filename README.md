@@ -1,6 +1,6 @@
 ### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I’m [**Tarun**](https://taruncodesfr.github.io/taruncodes-portfolio), a design engineer based in Germany.
+I’m [**Tarun**](https://taruncodesfr.github.io/taruncodes-portfolio), a fullstack dev based in India.
 
 I design and build whatever I can imagine.
 
