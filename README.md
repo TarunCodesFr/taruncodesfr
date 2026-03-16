@@ -4,5 +4,5 @@ I am [**TarunCodes**](https://taruncodesfr.github.io/taruncodes-portfolio), A 16
 
 ### Currently Own:
 
-* **__Trunal__** - A Digital Development agency based in Varanasi, India. We serve fully fledged scaleable Websites & Applications to businesses accross India. You can get more information: [here](https://trunal-frontend.vercel.app/).
+* **__Trunal__** - A Digital Development agency based in Varanasi, India. We serve fully fledged scaleable Websites & Applications to businesses accross India. You can get more information: [here](https://trunal.in/).
 
