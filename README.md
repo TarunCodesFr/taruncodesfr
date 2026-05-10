@@ -3,8 +3,7 @@
 I am [**TarunCodes**](https://taruncodesfr.github.io/taruncodes-portfolio), A 14 year old **`dolt`** who does things mostly for fun. 
 
 > [!IMPORTANT]
-> I'm **15 years old** and from **Mexico mx**. Despite my age, I have over **6+ years** of hands-on experience modifying, optimizing, and developing plugins for Pocketmine-MP, also i have experience on other languages like NodeJS and Java.<br>
-> Tengo **15 años** y soy de **México mx**. A pesar de mi edad, tengo más de **6+ años** de experiencia práctica modificando, optimizando y desarrollando plugins para Pocketmine-MP y tambien cuento con experiencia en otros lenguajes como NodeJS y Java
+> I'm **14 years old** and from **India**. Despite my age, I have over **5+ years** of hands-on experience modifying, optimizing, and building backend systems. I also have experience of building Pocketmine-MP plugins for and langauges like php & rust. <br>
 
 ### Currently Own:
 
