@@ -6,6 +6,6 @@
 
 backend // cybersecurity // anime
 
-<a href="https://taruncodesfr.github.io/taruncodes-portfolio/"><strong>website</strong></a> | <a href="https://taruncodesfr.github.io/taruncodes-portfolio/#projects"><strong>projects & research</strong></a> | <a href="https://x.com/taruncodesfr"><strong>x (twitter)</strong></a> | <a href="mailto: akurax4@gmail.com"><strong>email</strong></a>
+<a href="https://taruncodesfr.github.io/taruncodes-portfolio/"><strong>website</strong></a> | <a href="https://taruncodesfr.github.io/taruncodes-portfolio/#projects"><strong>projects</strong></a> | <a href="https://x.com/taruncodesfr"><strong>x (twitter)</strong></a> | <a href="mailto: akurax4@gmail.com"><strong>email</strong></a>
 
 </samp>
